@@ -536,7 +536,7 @@ footer{
     background-color:transparent !important;
 }
 @media (max-width: 768px) {
-    .hero{
-        padding-top: 120px;
+    .profile-image{
+        margin-top: 80px;
     }
 }
