@@ -536,7 +536,11 @@ footer{
     background-color:transparent !important;
 }
 @media (max-width: 768px) {
-    .profile-image{
-        margin-top: 80px;
+    .navbar{
+        flex-wrap: wrap;
+        padding-bottom: 10px;
+    }
+    .hero{
+        padding-top: 140px;
     }
 }
